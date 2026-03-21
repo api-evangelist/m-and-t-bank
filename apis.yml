@@ -1,0 +1,7 @@
+aid: m-and-t-bank
+url: https://raw.githubusercontent.com/api-evangelist/m-and-t-bank/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.m-and-t-bank.com
